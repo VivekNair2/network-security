@@ -8,5 +8,6 @@ dill
 pyaml
 dagshub
 mlflow
+fastapi
 
 -e .

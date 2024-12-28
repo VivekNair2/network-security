@@ -1,0 +1,17 @@
+[2024-12-29 01:10:56,398, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2024-12-29 01:10:56,398, 107, dagshub, INFO - Accessing as vivekh2004]
+[2024-12-29 01:10:57,174, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/vivekh2004/network-security "HTTP/1.1 200 OK"]
+[2024-12-29 01:10:57,970, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2024-12-29 01:10:57,970, 107, dagshub, INFO - Initialized MLflow to track repo "vivekh2004/network-security"]
+[2024-12-29 01:10:57,970, 107, dagshub, INFO - Repository vivekh2004/network-security initialized!]
+[2024-12-29 01:10:58,471, 114, fastapi, ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+]
+[2024-12-29 01:11:24,978, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2024-12-29 01:11:24,985, 107, dagshub, INFO - Accessing as vivekh2004]
+[2024-12-29 01:11:25,838, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/vivekh2004/network-security "HTTP/1.1 200 OK"]
+[2024-12-29 01:11:26,609, 1025, httpx, INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"]
+[2024-12-29 01:11:26,625, 107, dagshub, INFO - Initialized MLflow to track repo "vivekh2004/network-security"]
+[2024-12-29 01:11:26,625, 107, dagshub, INFO - Repository vivekh2004/network-security initialized!]
