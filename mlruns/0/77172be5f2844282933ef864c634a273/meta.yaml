@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivek/Desktop/MLOPS/NetworkSecurity/mlruns/0/77172be5f2844282933ef864c634a273/artifacts
+end_time: 1735405827571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77172be5f2844282933ef864c634a273
+run_name: thoughtful-hog-869
+run_uuid: 77172be5f2844282933ef864c634a273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735405824629
+status: 3
+tags: []
+user_id: vivek

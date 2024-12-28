@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivek/Desktop/MLOPS/NetworkSecurity/mlruns/0/84cd6c3598944afc9d3afdcaa052883d/artifacts
+end_time: 1735405824613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84cd6c3598944afc9d3afdcaa052883d
+run_name: hilarious-stork-676
+run_uuid: 84cd6c3598944afc9d3afdcaa052883d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735405819588
+status: 3
+tags: []
+user_id: vivek
